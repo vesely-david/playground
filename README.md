@@ -1,1 +1,3 @@
-# playground
+# Playground
+
+This repository serves as my own playground for testing new utilities, python packages, etc...
