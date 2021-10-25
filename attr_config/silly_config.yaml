@@ -1,0 +1,3 @@
+version: "0.1"
+hdfs_server: "hdfs://mycluster"
+mlflow_uri: "http://1.1.1.1"
