@@ -3,3 +3,6 @@ def a():
 
 def b():
     print("Ahoj 2")
+
+def c():
+    print("Ahoj 3")
