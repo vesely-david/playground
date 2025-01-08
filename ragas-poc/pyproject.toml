@@ -5,8 +5,12 @@ description = ""
 authors = ["vesely-david <veselda7@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "<3.13, >=3.9.0"
 ragas = "^0.2.10"
+langchain-community = "^0.3.14"
+langchain-openai = "^0.2.14"
+python-dotenv = "^1.0.1"
+unstructured = {extras = ["md"], version = "^0.16.12"}
 
 [tool.poetry.dev-dependencies]
 
