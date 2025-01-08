@@ -6,6 +6,7 @@ authors = ["vesely-david <veselda7@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+ragas = "^0.2.10"
 
 [tool.poetry.dev-dependencies]
 
